@@ -8,8 +8,8 @@ The final output program and the object program are displayed in the terminal.
 #### Input:-
 
 input.txt : Contains source code.
-opcodes.txt : Contains opcodes for all the mnemonics.
-startaddress.txt : Contains starting address of the program.
+opcode.txt : Contains opcodes for all the mnemonics.
+startaddr.txt : Contains starting address of the program.
 
 #### Output:-
 
