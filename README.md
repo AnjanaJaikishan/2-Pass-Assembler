@@ -1,6 +1,6 @@
 # 2-Pass-Assembler
 
-###This projects implements the working of a 2 Pass Assembler.
+### This projects implements the working of a 2 Pass Assembler.
 
 Language- C++
 
